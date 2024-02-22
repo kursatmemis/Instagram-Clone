@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910617983175",
+    "project_id": "instagram-clone-88416",
+    "storage_bucket": "instagram-clone-88416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910617983175:android:b15bb71c1200f06059a6e2",
+        "android_client_info": {
+          "package_name": "com.kursatmemis.instagram_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCafqDsWaNFtVCyDXktkTARP2_no6ixaYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
